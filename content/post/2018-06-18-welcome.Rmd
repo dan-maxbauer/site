@@ -1,0 +1,17 @@
+---
+title: 'Welcome! '
+author: Dan Maxbauer
+date: '2018-06-18'
+slug: welcome
+categories:
+  - R
+  - Python
+tags: []
+---
+Hello! I created this blog as a place for me to learn new things and write about them. For my day job, I'm a visiting professor in geology at Carleton College. I teach about climate, paleobiology, and introductory geology. Its great and I love it. For my academic work, I regularly use R and have since I was a master's student (~5 years now). I have wanted to be fancy and start a blog using [Blogdown](https://bookdown.org/yihui/blogdown/) for a while, so, here it is. Now I'm fancy! 
+
+The theme of each post is likely to vary quite a bit here - and most content will likely be for me to learn about topics/tools I'm interested in more so than building a site that conveys expertise on a single topic. 
+
+Many posts will focus on my work in R - building different types of models/visualizations and exploring new data. But I'm also working towards learning Python, and I will incorportate some posts here and there that show some baby-steps towards that goal. 
+
+So, enjoy the ramblings! If there is anything you see in my posts that excites you (or horrifies you) feel free to reach out and get in touch. 

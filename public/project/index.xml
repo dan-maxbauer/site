@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dan Maxbauer</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Dan Maxbauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Do magnetic minerals record climate?</title>
+      <link>/project/magnetics_project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/magnetics_project/</guid>
+      <description>To the non-paleoclimatologist (basically everyone) the magnetic properties of dirt are likely not a source of inspiration. Yet, I&amp;rsquo;ve spent a considerable amount of energy over the past four years thinking about the magnetism of dirt and what it means for the history of Earth&amp;rsquo;s climate. Wait, what?
+To make sense of this, it is important to recognize a few things about geology and it&amp;rsquo;s subfield of paleoclimate.
+ Paleo = &amp;ldquo;old&amp;rdquo; or &amp;ldquo;past&amp;rdquo; $\rightarrow$ paleoclimate = &amp;ldquo;past climates&amp;rdquo; For most past climates, we do not have any instrumental records (think thermometers) Geologist who study past climates (&amp;ldquo;paleoclimatologists&amp;rdquo;) need to make indirect observations of something that is correlated to changes in climate Usually this type of relationship is called a proxy and is based on something we can study in modern environments  Paleoclimate proxies form the basis for how geologists study past climates and shape the way we understand Earth&amp;rsquo;s history.</description>
+    </item>
+    
+    <item>
+      <title>Max UnMix</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dan Maxbauer</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Dan Maxbauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome! </title>
+      <link>/post/welcome/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>Hello! I created this blog as a place for me to learn new things and write about them. For my day job, I’m a visiting professor in geology at Carleton College. I teach about climate, paleobiology, and introductory geology. Its great and I love it. For my academic work, I regularly use R and have since I was a master’s student (~5 years now). I have wanted to be fancy and start a blog using Blogdown for a while, so, here it is.</description>
+    </item>
+    
+  </channel>
+</rss>

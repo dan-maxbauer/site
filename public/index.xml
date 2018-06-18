@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Maxbauer on Dan Maxbauer</title>
+    <link>/</link>
+    <description>Recent content in Dan Maxbauer on Dan Maxbauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome! </title>
+      <link>/post/welcome/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>&lt;p&gt;Hello! I created this blog as a place for me to learn new things and write about them. For my day job, I’m a visiting professor in geology at Carleton College. I teach about climate, paleobiology, and introductory geology. Its great and I love it. For my academic work, I regularly use R and have since I was a master’s student (~5 years now). I have wanted to be fancy and start a blog using &lt;a href=&#34;https://bookdown.org/yihui/blogdown/&#34;&gt;Blogdown&lt;/a&gt; for a while, so, here it is. Now I’m fancy!&lt;/p&gt;
+&lt;p&gt;The theme of each post is likely to vary quite a bit here - and most content will likely be for me to learn about topics/tools I’m interested in more so than building a site that conveys expertise on a single topic.&lt;/p&gt;
+&lt;p&gt;Many posts will focus on my work in R - building different types of models/visualizations and exploring new data. But I’m also working towards learning Python, and I will incorportate some posts here and there that show some baby-steps towards that goal.&lt;/p&gt;
+&lt;p&gt;So, enjoy the ramblings! If there is anything you see in my posts that excites you (or horrifies you) feel free to reach out and get in touch.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Response of pedogenic magnetite to changing vegetation in soils developed under uniform climate, topography, and parent material</title>
+      <link>/publication/mn_soils_citation/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/mn_soils_citation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magnetic minerals as recorders of weathering, diagenesis, and paleoclimate: A core-outcrop comparison of Paleocene-Eocene paleosols in the Bighorn Basin, WY, USA.</title>
+      <link>/publication/bighorn_citation/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/bighorn_citation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do magnetic minerals record climate?</title>
+      <link>/project/magnetics_project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/magnetics_project/</guid>
+      <description>&lt;p&gt;To the non-paleoclimatologist (basically everyone) the magnetic properties of dirt are likely not a source of inspiration. Yet, I&amp;rsquo;ve spent a considerable amount of energy over the past four years thinking about the magnetism of dirt and what it means for the history of Earth&amp;rsquo;s climate. Wait, what?&lt;/p&gt;
+
+&lt;p&gt;To make sense of this, it is important to recognize a few things about geology and it&amp;rsquo;s subfield of paleoclimate.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paleo = &amp;ldquo;old&amp;rdquo; or &amp;ldquo;past&amp;rdquo; $\rightarrow$ paleoclimate = &amp;ldquo;past climates&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;For most past climates, we do not have any instrumental records (think thermometers)&lt;/li&gt;
+&lt;li&gt;Geologist who study past climates (&amp;ldquo;paleoclimatologists&amp;rdquo;) need to make indirect observations of &lt;em&gt;something&lt;/em&gt; that is correlated to changes in climate&lt;/li&gt;
+&lt;li&gt;Usually this type of relationship is called a &lt;em&gt;proxy&lt;/em&gt; and is based on something we can study in modern environments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Paleoclimate proxies form the basis for how geologists study past climates and shape the way we understand Earth&amp;rsquo;s history. For example, variation in the thinkness of tree rings provides a critical measure of rainfall variations over the past few thousand years - which helps us understand natural variation in regional drought patterns. Other examples of some common proxies include size/shape variaiton in leaves, oxygen and carbon isotopes, and chemical properties of soils/fossil soils.&lt;/p&gt;
+
+&lt;p&gt;As it turns out - despite how useful and important paleoclimate proxies are, there are relatively few methods that work well when you start studying rocks/sediments/dirt that is increasingly old (old for geologists varies, but I&amp;rsquo;m talking about &amp;gt; 2.5 million years old). So, considering this, I set out to answer the question: &lt;strong&gt;&amp;ldquo;Do magnetic minerals record climate?&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I of course am not the first person to think about this topic. Early work in China during the 1990&amp;rsquo;s and the early part of the 2000&amp;rsquo;s first established a link between magnetic properites of soils and other paleocliamte proxy records from ocean sediments over the past million years or so. Based on a number of subsequent studies, it became clear that magnetic properties of soils were related to the overriding climate (precipitation and temperature) while the soil formed - but the relationships are a bit muddled and vary based on location and the type of soil.&lt;/p&gt;
+
+&lt;p&gt;My work for this project (my dissertation, essentially) aimed to improve our understanding of this relationship and to establish a more robust magnetic paleoclimate proxy. The papers linked below contain a far more detailed answer to this question (along with more background on the topic for those interested), but here are the main takeways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Magnetic minerals (tiny particles made up of iron and oxygen, mostly) form in soils based on wet the soil is and, likely, as a result of the metabolic activity of iron-reducing bacteria&lt;/li&gt;
+&lt;li&gt;In most soils - the magnetic minerals present can be identified using magnetic properties that are sensitive to the size and composition of the particles&lt;/li&gt;
+&lt;li&gt;Certain magnetic properties seem to be good indicators of climate, but others are poor predictors and current proxies are not widely applicable&lt;/li&gt;
+&lt;li&gt;There needs to be more work done to test these proxies in soils all over the world to increase how robust the statistical relationships are prior to applicaitons to fossil soils&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So in summary: Yes, magnetic minerals do record climate. But like all things, this relationship is complicated. For the interested parties still reading, take a look at the linked papers below to learn more or reach out with any questions!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Max UnMix</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic mineral assemblages in soils and paleosols as the basis for paleoprecipitation proxies: A review of magnetic methods and challenges.</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

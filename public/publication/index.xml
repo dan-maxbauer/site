@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Dan Maxbauer</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Dan Maxbauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Response of pedogenic magnetite to changing vegetation in soils developed under uniform climate, topography, and parent material</title>
+      <link>/publication/mn_soils_citation/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/mn_soils_citation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic minerals as recorders of weathering, diagenesis, and paleoclimate: A core-outcrop comparison of Paleocene-Eocene paleosols in the Bighorn Basin, WY, USA.</title>
+      <link>/publication/bighorn_citation/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/bighorn_citation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnetic mineral assemblages in soils and paleosols as the basis for paleoprecipitation proxies: A review of magnetic methods and challenges.</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Mon, 25 Jan 2016 00:00:00 -0600</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/clothing-search/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
